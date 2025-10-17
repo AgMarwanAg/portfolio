@@ -296,8 +296,8 @@ img {
 }
 
 .circle-background {
-  width: 300px;
-  height: 300px;
+  width: 350px;
+  height: 350px;
   border-radius: 50%;
   background: #1a1a2e;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
@@ -311,10 +311,8 @@ img {
   width: 280px;
   height: 350px;
   object-fit: cover;
-  top: 10px; /* Aligns image to top of container */
   left: 50%;
-  transform: translate(-50%,-35%); /* Center horizontally only */
-
+  transform: translate(-50%,-20%);
 }
 
 /* Portrait over circle layout */
@@ -325,7 +323,7 @@ img {
   align-items: center;
 }
 
-.circle-background {
+/* .circle-background {
   width: 300px;
   height: 300px;
   border-radius: 50%;
@@ -333,7 +331,7 @@ img {
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
   position: relative;
   z-index: 1;
-}
+} */
 
 /* .portrait-image {
   position: absolute;
