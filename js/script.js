@@ -135,38 +135,38 @@ animateOnScroll();
 // Glorious glowing mouse effect
 document.addEventListener('DOMContentLoaded', () => {
     // Create the glowing circle element
-    const glowingCircle = document.createElement('div');
-    glowingCircle.classList.add('glowing-circle');
-    document.body.appendChild(glowingCircle);
+    // const glowingCircle = document.createElement('div');
+    // glowingCircle.classList.add('glowing-circle');
+    // document.body.appendChild(glowingCircle);
     
-    // Add pulse animation class
-    glowingCircle.classList.add('pulse');
+    // // Add pulse animation class
+    // glowingCircle.classList.add('pulse');
     
-    // Track mouse movement
-    document.addEventListener('mousemove', (e) => {
-        glowingCircle.style.left = e.clientX + 'px';
-        glowingCircle.style.top = e.clientY + 'px';
-    });
+    // // Track mouse movement
+    // document.addEventListener('mousemove', (e) => {
+    //     glowingCircle.style.left = e.clientX + 'px';
+    //     glowingCircle.style.top = e.clientY + 'px';
+    // });
     
-    // Add active effect on mouse down
-    document.addEventListener('mousedown', () => {
-        glowingCircle.classList.add('active');
-    });
+    // // Add active effect on mouse down
+    // document.addEventListener('mousedown', () => {
+    //     glowingCircle.classList.add('active');
+    // });
     
-    // Remove active effect on mouse up
-    document.addEventListener('mouseup', () => {
-        glowingCircle.classList.remove('active');
-    });
+    // // Remove active effect on mouse up
+    // document.addEventListener('mouseup', () => {
+    //     glowingCircle.classList.remove('active');
+    // });
     
-    // Add extra glow on keyboard events
-    document.addEventListener('keydown', () => {
-        if (!glowingCircle.classList.contains('key-pressed')) {
-            glowingCircle.classList.add('active', 'key-pressed');
-            setTimeout(() => {
-                glowingCircle.classList.remove('active', 'key-pressed');
-            }, 300);
-        }
-    });
+    // // Add extra glow on keyboard events
+    // document.addEventListener('keydown', () => {
+    //     if (!glowingCircle.classList.contains('key-pressed')) {
+    //         glowingCircle.classList.add('active', 'key-pressed');
+    //         setTimeout(() => {
+    //             glowingCircle.classList.remove('active', 'key-pressed');
+    //         }, 300);
+    //     }
+    // });
     
     // Add special effect when hovering over interactive elements
     const interactiveElements = document.querySelectorAll('a, button, .btn, .nav-link');
