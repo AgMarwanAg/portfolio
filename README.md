@@ -1,4 +1,4 @@
-# Abdulghani Al-Sanaani - Flutter Developer Portfolio
+# Marwan Alaghbary - Flutter Developer Portfolio
 
 A responsive portfolio website showcasing my skills and projects as a Flutter mobile application developer. Built with HTML5, CSS3, and vanilla JavaScript with a modern dark theme featuring glassmorphism design.
 
@@ -11,15 +11,17 @@ A responsive portfolio website showcasing my skills and projects as a Flutter mo
 - Modern, clean typography
 - Responsive design for all devices
 - Interactive elements (hover states, scroll animations)
+- Floating CV download button for mobile users
 
 ## Sections
 
 1. Navigation with smooth scroll
 2. Hero section with introduction and call-to-action
 3. About section with skills/technologies
-4. Projects showcase with hover effects
-5. Contact form with validation
-6. Footer with social links
+4. Education section with detailed academic background
+5. Projects showcase with hover effects
+6. Contact section with social links
+7. Footer with social links
 
 ## Technologies Used
 
@@ -43,6 +45,13 @@ You can easily customize the portfolio by modifying:
 - **Colors**: Edit the CSS variables in `css/style.css`
 - **Content**: Edit the HTML in `index.html`
 - **Functionality**: Edit the JavaScript in `js/script.js`
+
+## Recent Enhancements
+
+- Added dedicated Education section with enhanced card design
+- Implemented floating CV download button for improved mobile experience
+- Enhanced education cards with icons and better visual hierarchy
+- Improved responsive design for all device sizes
 
 ## Browser Support
 
@@ -76,6 +85,7 @@ I'm a passionate Flutter developer with expertise in creating cross-platform mob
 
 ### Education
 - Bachelor's degree in Information Technology, Alrazi University (2019 – 2023)
+  - Graduated with honors
 - Intermediate English diploma, FLI institute (08-2018 – 04 2019)
 
 ### Projects
@@ -83,6 +93,9 @@ I'm a passionate Flutter developer with expertise in creating cross-platform mob
 2. **SAM City Water** - Water distribution application for Sam factory
 3. **Universal Hotels** - App for booking hotel rooms and suites
 4. **Haddah Water** - Water distribution to wholesalers and grocers
+5. **Talkah** - Food delivery, package delivery, and transportation services
+6. **Medical House** - Health information and services platform
+7. **Incart** - Online shopping platform
 
 ## License
 
