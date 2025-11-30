@@ -1,0 +1,17 @@
+    {
+      "name": "Talkah",
+      "description": "Food delivery, package delivery, individual delivery, goods transportation, international shipping, online store and reservation services Everything that comes to your mind will be delivered to you from anywhere and to any place.",
+      "logo": "assets/projects/talkah/logo.png",
+      "links": [
+        {
+          "name": "Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.talka.express.customer",
+          "icon": "fab fa-google-play"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/%D8%B7%D9%84%D9%82%D8%A9-%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%B5%D9%8A%D9%84-%D9%88%D8%A7%D9%84%D9%86%D9%82%D9%84/id6471359414?platform=iphone",
+          "icon": "fab fa-apple"
+        }
+      ]
+    },
