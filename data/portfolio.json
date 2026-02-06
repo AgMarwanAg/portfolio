@@ -4,7 +4,7 @@
     "fullName": "Marwan Alaghbary",
     "title": "Flutter Developer",
     "description": "I specialize in building beautiful, functional mobile applications using Flutter framework. With expertise in Dart, Clean Architecture, and State Management patterns.",
-    "email": "agmarwanag56@gmail.com",
+    "email": "mail@marwanag.dev",
     "location": "Sana'a, Yemen",
     "portrait": "assets/image.png",
     "cvLink": "assets/Marwan Alaghbary mobile application developer.pdf"
@@ -178,7 +178,7 @@
   ],
   "contact": {
     "description": "I'm currently available for freelance work and full-time positions. Feel free to reach out if you want to collaborate or just say hello!",
-    "email": "agmarwanag56@gmail.com",
+    "email": "mail@marwanag.dev",
     "location": "Sana'a, Yemen",
     "socialLinks": [
       {
@@ -198,7 +198,7 @@
       },
       {
         "name": "Email",
-        "url": "mailto:agmarwanag56@gmail.com",
+        "url": "mailto:mail@marwanag.dev",
         "icon": "fa-solid fa-envelope"
       },
       {
